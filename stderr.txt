@@ -1,0 +1,8 @@
+cannot use cc-lynx.dac: chips.dat unavailable [series.c:531]
+cannot use cc-ms.dac: chips.dat unavailable [series.c:531]
+cannot use CCLP1-Lynx.dac: CCLP1.dat unavailable [series.c:531]
+cannot use CCLP1-MS.dac: CCLP1.dat unavailable [series.c:531]
+cannot use CCLP3-Lynx.dac: CCLP3.dat unavailable [series.c:531]
+cannot use CCLP3-MS.dac: CCLP3.dat unavailable [series.c:531]
+cannot use intro-lynx.dac: intro.dat unavailable [series.c:531]
+cannot use intro-ms.dac: intro.dat unavailable [series.c:531]
